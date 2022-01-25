@@ -5,7 +5,6 @@
 <p>we are coming soon</p>
 <h1>hello again we are launching our application on 1st feb</h1>
 <p>download app from below link</p>
-<p>error line</p>
 
 </body>
 </html>
